@@ -2,7 +2,7 @@
 O **ScrollFix** é uma aplicação que desenvolvi para corrigir problemas de scroll em dispositivos de entrada, como mouses, que podem apresentar problemas no encoder. Basicamente, criei este programa para resolver um problema que eu mesmo enfrentava antigamente com o meu mouse. Toda vez que eu tentava rolar para cima, o scroll acabava indo para baixo e vice-versa. Isso tornava a experiência de rolagem bastante frustrante, especialmente em sites ou aplicativos que não tinham uma funcionalidade bem feita com as setas do teclado ou pageUp e pageDown.
 
 ## Funcionalidades
-- Corrige problemas de scroll invertido ou com problema no encoder em dispositivos de entrada.
+- Corrige problemas com a rolagem de dispositivos de entrada.
 - Fornece uma solução simples e rápida para melhorar a experiência de rolagem.
 
 ## Como usar:
