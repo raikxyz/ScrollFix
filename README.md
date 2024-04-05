@@ -25,10 +25,8 @@ Execute o programa: Após navegar até o diretório do projeto, execute o progra
 ```
 python scrollfix.py
 ```
-Utilize os atalhos de teclado: Para corrigir o problema de scroll invertido, utilize os seguintes atalhos de teclado:
-
 ### Você pode também apenas estar abrindo o atalho dentro da pasta com o nome de: 'scrollFix'
-
+Utilize os atalhos de teclado: Para corrigir o problema e poder usar o scroll, utilize os seguintes atalhos de teclado:
 
 - [ é usado para scroll up.
 - ] é usado para scroll down.
